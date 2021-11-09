@@ -7,3 +7,4 @@
 7 - Se tiver ok, finalizado a task
 8 - Se não tiver ok, olhar os comentários, corrigir, commitar e dar push de novo
 9 - new line for new test in gitflow for learning this "bagaça"
+10- More and more test for learning
