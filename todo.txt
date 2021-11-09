@@ -1,3 +1,6 @@
 1 - Clonar repositório
 2 - Inicializar Git Flow
 3 - Criar nova feature
+
+0 - Mais importante
+  - Vini, paga o churras pra turma
