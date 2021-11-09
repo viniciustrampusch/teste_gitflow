@@ -1,1 +1,9 @@
 1 - Clonar repositório
+2 - Inicializa gitflow (ctrl + shift + p: gitflow -> initialize...)
+3 - Cria a feature pra cada task (ctrl + shift + p: gitflow -> feature start)
+4 - Realiza a task
+5 - Commit, push, etc
+6 - Quando terminar a task, fazer Pull Request - PR
+7 - Se tiver ok, finalizado a task
+8 - Se não tiver ok, olhar os comentários, corrigir, commitar e dar push de novo
+9 - new line for new test in gitflow for learning this "bagaça"
